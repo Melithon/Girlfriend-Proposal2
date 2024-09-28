@@ -5,7 +5,7 @@ const response = document.getElementById("response");
 
 // Yes Button Event
 yesBtn.addEventListener("click", function() {
-    response.textContent = "You're the love of my life!❤️";
+    response.textContent = "Iloveyou palanglang mwahh❤️";
     response.classList.remove("hidden");
 });
 
